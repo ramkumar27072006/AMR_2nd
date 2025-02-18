@@ -1,0 +1,29 @@
+CARD RGI 
+https://card.mcmaster.ca/analyze/rgi
+
+KEGG pathways
+https://www.genome.jp/kegg/pathway.html
+
+STRING database
+https://string-db.org/
+
+BLAST (NCBI)
+https://blast.ncbi.nlm.nih.gov/Blast.cgi
+
+SwissDock
+https://www.swissdock.ch/
+
+ClusPro
+https://cluspro.bu.edu/login.php
+
+NCBI
+https://www.ncbi.nlm.nih.gov/
+
+AlphaFold Protein Structure Database
+https://alphafold.ebi.ac.uk/
+
+Clustal Omega
+https://www.ebi.ac.uk/jdispatcher/msa/clustalo
+
+UniProt
+https://www.uniprot.org/

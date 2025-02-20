@@ -1,3 +1,0 @@
-Get-Content "file_path(1)", "file_path(2)", "file_path(3)" | Set-Content "output_file_path"
-Example:
-Get-Content "D:\2nd_SEM\fasta_file\sequence (1).fasta", "D:\2nd_SEM\fasta_file\sequence (2).fasta", "D:\2nd_SEM\fasta_file\sequence (3).fasta" | Set-Content "D:\2ND SEM\delete\combined_sequences.fasta"

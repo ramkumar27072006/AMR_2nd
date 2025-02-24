@@ -1,0 +1,17 @@
+Why Use Word2Vec in This Case?
+Word2Vec is useful because it converts sequences (text data) into numerical representations (vectors) that machine learning models can process.
+Since machine learning models work with numbers, not raw text, you need some form of feature extraction.
+
+Why Not Just Use the Raw Dataset?
+If your dataset contains DNA/protein sequences, feeding raw text directly into a machine learning model won’t work because models don't understand biological sequences as-is.
+Word2Vec helps by:
+✅ Capturing sequence relationships (similar sequences have similar vector representations).
+✅ Reducing dimensionality (instead of long text, you get a fixed-size vector).
+✅ Making it compatible with ML models (as numerical data).
+However, Word2Vec alone doesn’t make a dataset suitable for classification—you still need both AMR and non-AMR sequences for supervised learning.
+
+What You Should Do Next?
+1️⃣ Ensure your dataset has both AMR (1) and non-AMR (0) sequences.
+2️⃣ If all sequences are AMR, you need a dataset with non-AMR sequences to train a classifier.
+3️⃣ If you only have AMR sequences, you can use Word2Vec for clustering or similarity analysis instead of classification.
+👉 If you’re trying to classify sequences as AMR or not, you need to find a dataset with both classes and apply Word2Vec to both before training your model.

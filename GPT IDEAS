@@ -54,3 +54,12 @@ Would you like help in:
 🔹 **Building the ML model pipeline** for classification?  
 🔹 **Setting up evaluation metrics & comparison with ResFinder?**  
 
+
+Why Not Just Assign 1 to All?
+If you set the target column as 1 for all rows, the model will always predict 1 (AMR) and never learn any meaningful pattern. You need both AMR (1) and non-AMR (0) sequences for classification.
+
+How to Fix This?
+If you have a mixed dataset: Set AMR sequences to 1 and non-AMR to 0 in a Label column.
+If all sequences are AMR: Get a dataset of non-AMR sequences and merge them.
+If you don’t have non-AMR data: You cannot train a classifier; instead, you can use unsupervised learning like clustering.
+

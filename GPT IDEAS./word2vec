@@ -2,7 +2,7 @@ Why Use Word2Vec in This Case?
 Word2Vec is useful because it converts sequences (text data) into numerical representations (vectors) that machine learning models can process.
 Since machine learning models work with numbers, not raw text, you need some form of feature extraction.
 
-Why Not Just Use the Raw Dataset?
+Why Not Just Use the Raw Dataset??
 If your dataset contains DNA/protein sequences, feeding raw text directly into a machine learning model won’t work because models don't understand biological sequences as-is.
 Word2Vec helps by:
 ✅ Capturing sequence relationships (similar sequences have similar vector representations).

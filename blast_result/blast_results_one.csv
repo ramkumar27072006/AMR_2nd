@@ -1,0 +1,58 @@
+Matched Sequence,Length,E-value,Identity (%),Match Start,Match End
+"gi|2323370624|gb|CP100601.1| Klebsiella pneumoniae strain WX17388 chromosome, complete genome",5264967,0.0,100.0,2704621,2705430
+"gi|2514188091|gb|CP104627.1| Klebsiella pneumoniae strain AHM21C2836KI chromosome, complete genome",5206219,0.0,100.0,2682039,2682848
+"gi|2027191207|gb|CP072938.1| Klebsiella pneumoniae strain KP2723 chromosome, complete genome",5466464,0.0,100.0,2909690,2910499
+"gi|2794156139|gb|CP168055.1| Klebsiella pneumoniae strain LA111 chromosome, complete genome",5309945,0.0,100.0,2412760,2411951
+"gi|2096898577|gb|CP083443.1| Klebsiella pneumoniae strain KP1711R chromosome, complete genome",5470778,0.0,100.0,2964804,2965613
+"gi|2096898577|gb|CP083443.1| Klebsiella pneumoniae strain KP1711R chromosome, complete genome",5470778,0.0,99.75,700994,700185
+"gi|2021597885|gb|CP072494.1| Klebsiella pneumoniae strain KPN246 chromosome, complete genome",5322321,0.0,100.0,2262043,2261234
+"gi|18656795|gb|AF462396.1| Acinetobacter sp. SUN-72 plasmid pSUN-11 extended-spectrum beta-lactamase SHV-1 (blaSHV-1) gene, complete cds",861,0.0,100.0,52,861
+"gi|2734576373|gb|CP155657.1| Klebsiella pneumoniae strain SC-KP368 chromosome, complete genome",5388865,0.0,100.0,2717556,2718365
+"gi|2886943518|gb|CP176908.1| Klebsiella pneumoniae strain LAhvKp07 chromosome, complete genome",5255878,0.0,100.0,3751292,3752101
+"gi|1526135900|gb|CP034076.1| Klebsiella pneumoniae strain KP17-15 chromosome, complete genome",5379069,0.0,100.0,2818247,2819056
+"gi|2802313470|gb|CP152794.1| Klebsiella pneumoniae strain NK_H17_042 chromosome, complete genome",5439825,0.0,100.0,2734677,2735486
+"gi|2802313470|gb|CP152794.1| Klebsiella pneumoniae strain NK_H17_042 chromosome, complete genome",5439825,0.0,100.0,2748744,2749553
+"gi|2802313470|gb|CP152794.1| Klebsiella pneumoniae strain NK_H17_042 chromosome, complete genome",5439825,0.0,100.0,2762811,2763620
+"gi|2457319156|gb|CP102692.1| Klebsiella pneumoniae strain GN4542 chromosome, complete genome",5265041,0.0,100.0,2657001,2657810
+"gi|1836675777|gb|CP052036.1| Klebsiella pneumoniae strain KPN41053 chromosome, complete genome",5377071,0.0,100.0,3726703,3727512
+"gi|2886917756|gb|CP176968.1| Klebsiella pneumoniae strain LAhvKp233 chromosome, complete genome",5272513,0.0,100.0,2409923,2409114
+"gi|1526130864|gb|CP034077.1| Klebsiella pneumoniae strain KP17-16 chromosome, complete genome",5378952,0.0,99.88,2818130,2818939
+"gi|2798453596|gb|CP154463.1| Klebsiella pneumoniae strain KGVET-2018-04-44577 chromosome, complete genome",5144053,0.0,99.88,2622250,2623059
+"gi|2552148947|gb|CP130561.1| Klebsiella pneumoniae strain KP1 chromosome, complete genome",5103846,0.0,99.88,2575496,2576305
+"gi|2799422252|gb|CP153702.1| Klebsiella pneumoniae strain Kpn1999 chromosome, complete genome",5277303,0.0,99.88,2708825,2709634
+"gi|2283185872|gb|CP030741.1| Klebsiella pneumoniae strain B1 chromosome, complete genome",5255352,0.0,99.88,2681389,2682198
+"gi|2283180082|gb|CP030733.1| Klebsiella pneumoniae strain B2 chromosome, complete genome",5256433,0.0,99.88,2682453,2683262
+gi|1897367251|gb|CP060485.1| Klebsiella pneumoniae strain UCI190 chromosome,5286634,0.0,99.88,1782205,1781396
+"gi|2798615652|gb|CP153944.1| Klebsiella pneumoniae strain KP_NORM_BLD_62926 chromosome, complete genome",5194611,0.0,99.88,2649728,2650537
+"gi|2252462543|gb|CP077812.1| Klebsiella pneumoniae strain FF1083 chromosome, complete genome",5167508,0.0,99.88,1437454,1438263
+"gi|2087985292|gb|CP082005.1| Klebsiella pneumoniae strain KP18-8 chromosome, complete genome",5430143,0.0,99.88,2957132,2957941
+"gi|2087985292|gb|CP082005.1| Klebsiella pneumoniae strain KP18-8 chromosome, complete genome",5430143,0.0,99.75,696268,695459
+"gi|2799355157|gb|CP153675.1| Klebsiella pneumoniae strain Kpn4356 chromosome, complete genome",5216222,0.0,99.88,2607368,2608177
+"gi|2328527891|gb|CP092077.1| Klebsiella pneumoniae strain P1-1 chromosome, complete genome",5191309,0.0,99.88,2665350,2666159
+"gi|1927385643|emb|LR890627.1| Klebsiella pneumoniae isolate KSB1_6F genome assembly, chromosome: 1",5183290,0.0,99.88,2665782,2666591
+"gi|2801630164|gb|CP152656.1| Klebsiella pneumoniae strain NK_H24_044 chromosome, complete genome",5103552,0.0,99.88,2632218,2633027
+"gi|2889312006|gb|CP177164.1| Klebsiella pneumoniae strain Kpn-A24 chromosome, complete genome",5222590,0.0,99.88,2684711,2685520
+"gi|2801900118|gb|CP152631.1| Klebsiella pneumoniae strain NK_H3_002 chromosome, complete genome",5255436,0.0,99.88,2778146,2778955
+"gi|2227374498|gb|CP087611.1| Klebsiella pneumoniae subsp. pneumoniae strain DD02172 chromosome, complete genome",5319600,0.0,99.88,2794119,2794928
+"gi|2216559457|gb|CP043597.1| Klebsiella pneumoniae strain WCHKP085031 chromosome, complete genome",5204756,0.0,99.88,2411323,2410514
+"gi|1927384581|emb|LR890291.1| Klebsiella pneumoniae strain KSB1_1B genome assembly, chromosome: 1",5252324,0.0,99.88,2677648,2678457
+"gi|2734565397|gb|CP155647.1| Klebsiella pneumoniae strain 1475-1 chromosome, complete genome",5426148,0.0,99.88,2772042,2772851
+gi|2070117831|gb|CP078746.1| Klebsiella pneumoniae strain Colony493 chromosome,5540574,0.0,99.88,2897738,2898547
+"gi|1913261541|gb|CP061842.1| Klebsiella pneumoniae strain HC139 chromosome, complete genome",5098464,0.0,99.88,2567288,2568097
+"gi|1750948335|gb|CP044033.1| Klebsiella pneumoniae strain FDAARGOS_631 chromosome 1, complete sequence",5290279,0.0,99.88,4060943,4061752
+"gi|2799256825|gb|CP153622.1| Klebsiella pneumoniae strain Kpn116 chromosome, complete genome",5199032,0.0,99.88,2630113,2630922
+"gi|2163263698|gb|CP083066.1| Klebsiella pneumoniae strain 1613015451 chromosome, complete genome",5340602,0.0,99.88,2738623,2739432
+gi|1325134009|gb|CP025630.1| Klebsiella pneumoniae strain LS359 chromosome,4766516,0.0,99.88,2050588,2049779
+"gi|2283168594|gb|CP030717.1| Klebsiella pneumoniae strain B4 chromosome, complete genome",5256698,0.0,99.88,2682716,2683525
+"gi|2890481807|gb|CP177218.1| Klebsiella pneumoniae strain Kpn-A8 chromosome, complete genome",5222728,0.0,99.88,2684768,2685577
+"gi|2283174383|gb|CP030725.1| Klebsiella pneumoniae strain B3 chromosome, complete genome",5479750,0.0,99.88,2682454,2683263
+"gi|2283174383|gb|CP030725.1| Klebsiella pneumoniae strain B3 chromosome, complete genome",5479750,0.0,99.38,3980508,3981317
+"gi|2283174383|gb|CP030725.1| Klebsiella pneumoniae strain B3 chromosome, complete genome",5479750,2.09841e-44,68.58,4141115,4140562
+"gi|2174501295|gb|CP089989.1| Klebsiella pneumoniae strain LZKP00003 chromosome, complete genome",5314393,0.0,99.88,4892406,4893215
+gi|2567912374|gb|CP133011.1| Klebsiella pneumoniae strain KLB_MDR_390314 chromosome,5297963,0.0,99.88,2531405,2530596
+"gi|2243829923|emb|OW966980.1| Klebsiella pneumoniae isolate 1189 genome assembly, chromosome: main",5238522,0.0,99.88,2662783,2663592
+"gi|2087989066|gb|CP082029.1| Klebsiella pneumoniae strain KP18-2113 chromosome, complete genome",5484309,0.0,99.88,2979630,2980439
+"gi|2087989066|gb|CP082029.1| Klebsiella pneumoniae strain KP18-2113 chromosome, complete genome",5484309,0.0,99.75,702282,701473
+"gi|2799303518|gb|CP153634.1| Klebsiella pneumoniae strain Kpn1537 chromosome, complete genome",5148545,0.0,99.88,2574021,2574830
+"gi|2333862839|gb|CP110769.1| Klebsiella pneumoniae strain INF032 chromosome, complete genome",5111539,0.0,99.88,3723245,3722436
+gi|2070117869|gb|CP078765.1| Klebsiella pneumoniae strain Colony255 chromosome,5540574,0.0,99.88,2897738,2898547

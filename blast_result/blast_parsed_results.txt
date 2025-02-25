@@ -1,0 +1,342 @@
+Matched Sequence: gi|2323370624|gb|CP100601.1| Klebsiella pneumoniae strain WX17388 chromosome, complete genome
+Length: 5264967
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2704621, Match End: 2705430
+--------------------------------------------------
+Matched Sequence: gi|2514188091|gb|CP104627.1| Klebsiella pneumoniae strain AHM21C2836KI chromosome, complete genome
+Length: 5206219
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2682039, Match End: 2682848
+--------------------------------------------------
+Matched Sequence: gi|2027191207|gb|CP072938.1| Klebsiella pneumoniae strain KP2723 chromosome, complete genome
+Length: 5466464
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2909690, Match End: 2910499
+--------------------------------------------------
+Matched Sequence: gi|2794156139|gb|CP168055.1| Klebsiella pneumoniae strain LA111 chromosome, complete genome
+Length: 5309945
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2412760, Match End: 2411951
+--------------------------------------------------
+Matched Sequence: gi|2096898577|gb|CP083443.1| Klebsiella pneumoniae strain KP1711R chromosome, complete genome
+Length: 5470778
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2964804, Match End: 2965613
+--------------------------------------------------
+Matched Sequence: gi|2096898577|gb|CP083443.1| Klebsiella pneumoniae strain KP1711R chromosome, complete genome
+Length: 5470778
+E-value: 0.0
+Identity: 808/810 (99.75%)
+Match Start: 700994, Match End: 700185
+--------------------------------------------------
+Matched Sequence: gi|2021597885|gb|CP072494.1| Klebsiella pneumoniae strain KPN246 chromosome, complete genome
+Length: 5322321
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2262043, Match End: 2261234
+--------------------------------------------------
+Matched Sequence: gi|18656795|gb|AF462396.1| Acinetobacter sp. SUN-72 plasmid pSUN-11 extended-spectrum beta-lactamase SHV-1 (blaSHV-1) gene, complete cds
+Length: 861
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 52, Match End: 861
+--------------------------------------------------
+Matched Sequence: gi|2734576373|gb|CP155657.1| Klebsiella pneumoniae strain SC-KP368 chromosome, complete genome
+Length: 5388865
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2717556, Match End: 2718365
+--------------------------------------------------
+Matched Sequence: gi|2886943518|gb|CP176908.1| Klebsiella pneumoniae strain LAhvKp07 chromosome, complete genome
+Length: 5255878
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 3751292, Match End: 3752101
+--------------------------------------------------
+Matched Sequence: gi|1526135900|gb|CP034076.1| Klebsiella pneumoniae strain KP17-15 chromosome, complete genome
+Length: 5379069
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2818247, Match End: 2819056
+--------------------------------------------------
+Matched Sequence: gi|2802313470|gb|CP152794.1| Klebsiella pneumoniae strain NK_H17_042 chromosome, complete genome
+Length: 5439825
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2734677, Match End: 2735486
+--------------------------------------------------
+Matched Sequence: gi|2802313470|gb|CP152794.1| Klebsiella pneumoniae strain NK_H17_042 chromosome, complete genome
+Length: 5439825
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2748744, Match End: 2749553
+--------------------------------------------------
+Matched Sequence: gi|2802313470|gb|CP152794.1| Klebsiella pneumoniae strain NK_H17_042 chromosome, complete genome
+Length: 5439825
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2762811, Match End: 2763620
+--------------------------------------------------
+Matched Sequence: gi|2457319156|gb|CP102692.1| Klebsiella pneumoniae strain GN4542 chromosome, complete genome
+Length: 5265041
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2657001, Match End: 2657810
+--------------------------------------------------
+Matched Sequence: gi|1836675777|gb|CP052036.1| Klebsiella pneumoniae strain KPN41053 chromosome, complete genome
+Length: 5377071
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 3726703, Match End: 3727512
+--------------------------------------------------
+Matched Sequence: gi|2886917756|gb|CP176968.1| Klebsiella pneumoniae strain LAhvKp233 chromosome, complete genome
+Length: 5272513
+E-value: 0.0
+Identity: 810/810 (100.00%)
+Match Start: 2409923, Match End: 2409114
+--------------------------------------------------
+Matched Sequence: gi|1526130864|gb|CP034077.1| Klebsiella pneumoniae strain KP17-16 chromosome, complete genome
+Length: 5378952
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2818130, Match End: 2818939
+--------------------------------------------------
+Matched Sequence: gi|2798453596|gb|CP154463.1| Klebsiella pneumoniae strain KGVET-2018-04-44577 chromosome, complete genome
+Length: 5144053
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2622250, Match End: 2623059
+--------------------------------------------------
+Matched Sequence: gi|2552148947|gb|CP130561.1| Klebsiella pneumoniae strain KP1 chromosome, complete genome
+Length: 5103846
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2575496, Match End: 2576305
+--------------------------------------------------
+Matched Sequence: gi|2799422252|gb|CP153702.1| Klebsiella pneumoniae strain Kpn1999 chromosome, complete genome
+Length: 5277303
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2708825, Match End: 2709634
+--------------------------------------------------
+Matched Sequence: gi|2283185872|gb|CP030741.1| Klebsiella pneumoniae strain B1 chromosome, complete genome
+Length: 5255352
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2681389, Match End: 2682198
+--------------------------------------------------
+Matched Sequence: gi|2283180082|gb|CP030733.1| Klebsiella pneumoniae strain B2 chromosome, complete genome
+Length: 5256433
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2682453, Match End: 2683262
+--------------------------------------------------
+Matched Sequence: gi|1897367251|gb|CP060485.1| Klebsiella pneumoniae strain UCI190 chromosome
+Length: 5286634
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 1782205, Match End: 1781396
+--------------------------------------------------
+Matched Sequence: gi|2798615652|gb|CP153944.1| Klebsiella pneumoniae strain KP_NORM_BLD_62926 chromosome, complete genome
+Length: 5194611
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2649728, Match End: 2650537
+--------------------------------------------------
+Matched Sequence: gi|2252462543|gb|CP077812.1| Klebsiella pneumoniae strain FF1083 chromosome, complete genome
+Length: 5167508
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 1437454, Match End: 1438263
+--------------------------------------------------
+Matched Sequence: gi|2087985292|gb|CP082005.1| Klebsiella pneumoniae strain KP18-8 chromosome, complete genome
+Length: 5430143
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2957132, Match End: 2957941
+--------------------------------------------------
+Matched Sequence: gi|2087985292|gb|CP082005.1| Klebsiella pneumoniae strain KP18-8 chromosome, complete genome
+Length: 5430143
+E-value: 0.0
+Identity: 808/810 (99.75%)
+Match Start: 696268, Match End: 695459
+--------------------------------------------------
+Matched Sequence: gi|2799355157|gb|CP153675.1| Klebsiella pneumoniae strain Kpn4356 chromosome, complete genome
+Length: 5216222
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2607368, Match End: 2608177
+--------------------------------------------------
+Matched Sequence: gi|2328527891|gb|CP092077.1| Klebsiella pneumoniae strain P1-1 chromosome, complete genome
+Length: 5191309
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2665350, Match End: 2666159
+--------------------------------------------------
+Matched Sequence: gi|1927385643|emb|LR890627.1| Klebsiella pneumoniae isolate KSB1_6F genome assembly, chromosome: 1
+Length: 5183290
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2665782, Match End: 2666591
+--------------------------------------------------
+Matched Sequence: gi|2801630164|gb|CP152656.1| Klebsiella pneumoniae strain NK_H24_044 chromosome, complete genome
+Length: 5103552
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2632218, Match End: 2633027
+--------------------------------------------------
+Matched Sequence: gi|2889312006|gb|CP177164.1| Klebsiella pneumoniae strain Kpn-A24 chromosome, complete genome
+Length: 5222590
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2684711, Match End: 2685520
+--------------------------------------------------
+Matched Sequence: gi|2801900118|gb|CP152631.1| Klebsiella pneumoniae strain NK_H3_002 chromosome, complete genome
+Length: 5255436
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2778146, Match End: 2778955
+--------------------------------------------------
+Matched Sequence: gi|2227374498|gb|CP087611.1| Klebsiella pneumoniae subsp. pneumoniae strain DD02172 chromosome, complete genome
+Length: 5319600
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2794119, Match End: 2794928
+--------------------------------------------------
+Matched Sequence: gi|2216559457|gb|CP043597.1| Klebsiella pneumoniae strain WCHKP085031 chromosome, complete genome
+Length: 5204756
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2411323, Match End: 2410514
+--------------------------------------------------
+Matched Sequence: gi|1927384581|emb|LR890291.1| Klebsiella pneumoniae strain KSB1_1B genome assembly, chromosome: 1
+Length: 5252324
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2677648, Match End: 2678457
+--------------------------------------------------
+Matched Sequence: gi|2734565397|gb|CP155647.1| Klebsiella pneumoniae strain 1475-1 chromosome, complete genome
+Length: 5426148
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2772042, Match End: 2772851
+--------------------------------------------------
+Matched Sequence: gi|2070117831|gb|CP078746.1| Klebsiella pneumoniae strain Colony493 chromosome
+Length: 5540574
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2897738, Match End: 2898547
+--------------------------------------------------
+Matched Sequence: gi|1913261541|gb|CP061842.1| Klebsiella pneumoniae strain HC139 chromosome, complete genome
+Length: 5098464
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2567288, Match End: 2568097
+--------------------------------------------------
+Matched Sequence: gi|1750948335|gb|CP044033.1| Klebsiella pneumoniae strain FDAARGOS_631 chromosome 1, complete sequence
+Length: 5290279
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 4060943, Match End: 4061752
+--------------------------------------------------
+Matched Sequence: gi|2799256825|gb|CP153622.1| Klebsiella pneumoniae strain Kpn116 chromosome, complete genome
+Length: 5199032
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2630113, Match End: 2630922
+--------------------------------------------------
+Matched Sequence: gi|2163263698|gb|CP083066.1| Klebsiella pneumoniae strain 1613015451 chromosome, complete genome
+Length: 5340602
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2738623, Match End: 2739432
+--------------------------------------------------
+Matched Sequence: gi|1325134009|gb|CP025630.1| Klebsiella pneumoniae strain LS359 chromosome
+Length: 4766516
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2050588, Match End: 2049779
+--------------------------------------------------
+Matched Sequence: gi|2283168594|gb|CP030717.1| Klebsiella pneumoniae strain B4 chromosome, complete genome
+Length: 5256698
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2682716, Match End: 2683525
+--------------------------------------------------
+Matched Sequence: gi|2890481807|gb|CP177218.1| Klebsiella pneumoniae strain Kpn-A8 chromosome, complete genome
+Length: 5222728
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2684768, Match End: 2685577
+--------------------------------------------------
+Matched Sequence: gi|2283174383|gb|CP030725.1| Klebsiella pneumoniae strain B3 chromosome, complete genome
+Length: 5479750
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2682454, Match End: 2683263
+--------------------------------------------------
+Matched Sequence: gi|2283174383|gb|CP030725.1| Klebsiella pneumoniae strain B3 chromosome, complete genome
+Length: 5479750
+E-value: 0.0
+Identity: 805/810 (99.38%)
+Match Start: 3980508, Match End: 3981317
+--------------------------------------------------
+Matched Sequence: gi|2283174383|gb|CP030725.1| Klebsiella pneumoniae strain B3 chromosome, complete genome
+Length: 5479750
+E-value: 2.09841e-44
+Identity: 382/557 (68.58%)
+Match Start: 4141115, Match End: 4140562
+--------------------------------------------------
+Matched Sequence: gi|2174501295|gb|CP089989.1| Klebsiella pneumoniae strain LZKP00003 chromosome, complete genome
+Length: 5314393
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 4892406, Match End: 4893215
+--------------------------------------------------
+Matched Sequence: gi|2567912374|gb|CP133011.1| Klebsiella pneumoniae strain KLB_MDR_390314 chromosome
+Length: 5297963
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2531405, Match End: 2530596
+--------------------------------------------------
+Matched Sequence: gi|2243829923|emb|OW966980.1| Klebsiella pneumoniae isolate 1189 genome assembly, chromosome: main
+Length: 5238522
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2662783, Match End: 2663592
+--------------------------------------------------
+Matched Sequence: gi|2087989066|gb|CP082029.1| Klebsiella pneumoniae strain KP18-2113 chromosome, complete genome
+Length: 5484309
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2979630, Match End: 2980439
+--------------------------------------------------
+Matched Sequence: gi|2087989066|gb|CP082029.1| Klebsiella pneumoniae strain KP18-2113 chromosome, complete genome
+Length: 5484309
+E-value: 0.0
+Identity: 808/810 (99.75%)
+Match Start: 702282, Match End: 701473
+--------------------------------------------------
+Matched Sequence: gi|2799303518|gb|CP153634.1| Klebsiella pneumoniae strain Kpn1537 chromosome, complete genome
+Length: 5148545
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2574021, Match End: 2574830
+--------------------------------------------------
+Matched Sequence: gi|2333862839|gb|CP110769.1| Klebsiella pneumoniae strain INF032 chromosome, complete genome
+Length: 5111539
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 3723245, Match End: 3722436
+--------------------------------------------------
+Matched Sequence: gi|2070117869|gb|CP078765.1| Klebsiella pneumoniae strain Colony255 chromosome
+Length: 5540574
+E-value: 0.0
+Identity: 809/810 (99.88%)
+Match Start: 2897738, Match End: 2898547
+--------------------------------------------------

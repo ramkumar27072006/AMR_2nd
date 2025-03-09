@@ -1,0 +1,33 @@
+Great! We'll fully automate ClusPro docking so that users can:  
+
+✅ **Upload PDB protein structure files**  
+✅ **Submit them for docking via ClusPro's API**  
+✅ **Fetch and display the docking results**  
+✅ **Allow users to download the docked structure**  
+
+---
+
+### **🚀 Web Application Stack**
+1️⃣ **Backend (Flask API)**  
+- Loads your **AMR & Virulence models** (from Google Colab).  
+- Handles **ClusPro docking requests** (submits jobs & fetches results).  
+- Fetches **KEGG Pathway & PDB files**.  
+
+2️⃣ **Frontend (React/Next.js)**  
+- **4 Tabs**:  
+  - **AMR Prediction** (Upload sequence → Predict AMR).  
+  - **Virulence Prediction** (Upload protein → Predict virulence).  
+  - **ClusPro Docking** (Upload **2 proteins**, run docking, view/download results).  
+  - **KEGG Mapping** (Enter gene ID → Get pathways).  
+
+---
+
+## **Step-by-Step Implementation**  
+
+### **1️⃣ Backend (Flask) - Setting Up API**
+We'll first create the backend API that will:
+- Load **AMR & Virulence Models**
+- Submit docking jobs to **ClusPro**
+- Fetch **KEGG Pathways**
+- Get **PDB Files**  
+
